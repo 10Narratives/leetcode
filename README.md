@@ -22,3 +22,13 @@ Given an array nums of n integers where nums[i] is in the range [1, n],
 return an array of all the integers in the range [1, n] that do not appear in nums.
 
 Link: <https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/>
+
+### Single Number
+
+Given a non-empty array of integers nums, every element appears twice except for one.
+Find that single one.
+
+You must implement a solution with a linear runtime complexity and use only constant
+extra space.
+
+Link: <https://leetcode.com/problems/single-number/description/>
